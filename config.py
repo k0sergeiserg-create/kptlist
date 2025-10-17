@@ -8,10 +8,10 @@ GROUP_CODES = {
     "4 курс": ["ИС", "МД", "Э", "ЛС", "СТ", "МЭ", "ТД", "МС", "БП", "МР"]
 }
 EXCEL_URLS = {
-    "1 курс": r"C:\Users\k0ser\PycharmProjects\pythonProject\Data\Расписание 1 семестр 2025 год 1 курсы.xlsx",
-    "2 курс": r"C:\Users\k0ser\PycharmProjects\pythonProject\Data\Расписание 1 семестр 2025 год 1-2 курсы.xlsx",
-    "3 курс": r"C:\Users\k0ser\PycharmProjects\pythonProject\Data\Расписание 1 семестр 2025 год 2-3 курсы.xlsx",
-    "4 курс": r"C:\Users\k0ser\PycharmProjects\pythonProject\Data\Расписание 1 семестр 2025 год 3-4 курсы.xlsx"
+    "1 курс": "Data\Расписание 1 семестр 2025 год 1 курсы.xlsx",
+    "2 курс": "Data\Расписание 1 семестр 2025 год 1-2 курсы.xlsx",
+    "3 курс": "Data\Расписание 1 семестр 2025 год 2-3 курсы.xlsx",
+    "4 курс": "Data\Расписание 1 семестр 2025 год 3-4 курсы.xlsx"
 }
 
 
@@ -23,3 +23,4 @@ LESSON_TIMES = {
 DISTANT_COLOR_HEX = "FFE26B0A"
 SELF_STUDY_COLOR_HEX = "FFC5D9F1"
 DISTANT_COLOR_VARIANTS = ["FFE26B0A", "FFFFC000"]
+
