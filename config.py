@@ -1,6 +1,6 @@
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8379351448:AAHNlTGiWWzMjgN9_4BsPwkKnNuDgzBpQr8")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 GROUP_CODES = {
     "1 курс": ["ИС", "МД", "Э", "ЛС", "СТ", "МЭ", "ТД", "МС", "БП", "МР"],
     "2 курс": ["ИС", "МД", "Э", "ЛС", "СТ", "МЭ", "ТД", "МС", "БП", "МР"],
@@ -23,4 +23,5 @@ LESSON_TIMES = {
 DISTANT_COLOR_HEX = "FFE26B0A"
 SELF_STUDY_COLOR_HEX = "FFC5D9F1"
 DISTANT_COLOR_VARIANTS = ["FFE26B0A", "FFFFC000"]
+
 
