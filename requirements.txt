@@ -1,6 +1,9 @@
+setuptools>=65
+wheel
 python-telegram-bot==20.7
 requests==2.31.0
 openpyxl==3.1.2
 pandas==1.5.3
 numpy==1.23.5
 python-dotenv==1.0.0
+
